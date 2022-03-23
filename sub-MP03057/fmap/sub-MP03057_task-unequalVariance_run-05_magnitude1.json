@@ -1,0 +1,27 @@
+{
+	"ConversionSoftware": "dicm2nii.m 20180808",
+	"SeriesNumber": 13,
+	"SeriesDescription": "gre_field_mapping_1acq_rl",
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "ND"],
+	"Modality": "MR",
+	"AcquisitionDateTime": "20201125112930.070000",
+	"RepetitionTime": 1.02,
+	"PhaseEncodingDirection": "i",
+	"EchoTime": 0.01,
+	"EchoTimes": [
+		0.01,
+		0.01246	],
+	"PatientName": "MP03057",
+	"PatientPosition": "HFS",
+	"SliceThickness": 2,
+	"FlipAngle": 90,
+	"Manufacturer": "SIEMENS",
+	"SoftwareVersion": "syngo MR E11",
+	"MRAcquisitionType": "2D",
+	"InstitutionName": "Functional Imaging Laboratory",
+	"InstitutionAddress": "Queen Square 12,London,Southeast,GB,WC1N 3BG",
+	"DeviceSerialNumber": "167032",
+	"ScanningSequence": "GR",
+	"SequenceVariant": "SP",
+	"SequenceName": "*fm2d2r"
+}
