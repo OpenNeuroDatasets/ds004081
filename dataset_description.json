@@ -2,7 +2,6 @@
     "Name": "Confidence in Equal and Unequal Variance Settings",
     "BIDSVersion": "1.1.0",
     "DatasetType": "raw",
-    "License": "CC0",
     "Authors": [
         "Matan Mazor",
         "Chudi gong",
