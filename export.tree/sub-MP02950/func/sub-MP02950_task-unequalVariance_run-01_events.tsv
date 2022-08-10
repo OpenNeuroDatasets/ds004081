@@ -1,0 +1,332 @@
+onset	duration	trial_type	response_time	confidence	task	stimulus	response	key_id	include	uid	trial_number
+0.00	5.00	instructions	n/a	n/a	2	n/a	n/a	n/a	n/a	n/a	n/a
+10.02	4.00	TV	1.01	4	2	1	0	n/a	0	3501	1
+11.05	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+12.66	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+12.93	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+17.33	4.00	TV	1.02	5	2	1	0	n/a	0	3502	2
+18.35	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+19.70	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+23.63	4.00	TT	0.88	4	2	1	1	n/a	0	3503	3
+24.52	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+26.27	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+31.98	4.00	VV	1.02	4	2	0	0	n/a	0	3504	4
+33.00	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+34.40	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+34.62	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+34.82	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+39.18	4.00	VV	0.91	3	2	0	0	n/a	0	3505	5
+40.10	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+41.02	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+41.45	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+41.62	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+46.87	4.00	TT	1.12	2	2	1	1	n/a	0	3506	6
+47.98	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+49.05	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+49.25	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+49.43	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+49.83	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+52.46	4.00	VT	0.92	6	2	0	1	n/a	0	3507	7
+53.38	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+54.33	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+54.50	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+54.70	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+54.88	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+61.75	4.00	TT	0.88	6	2	1	1	n/a	0	3508	8
+62.63	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+63.50	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+63.71	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+63.90	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+64.10	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+64.23	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+68.30	4.00	VV	0.92	4	2	0	0	n/a	0	3509	9
+69.22	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+70.38	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+76.02	4.00	TV	1.00	3	2	1	0	n/a	0	3510	10
+77.02	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+78.57	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+82.98	4.00	TT	0.77	6	2	1	1	n/a	0	3511	11
+83.75	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+84.40	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+84.73	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+84.97	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+90.08	4.00	VV	0.83	4	2	0	0	n/a	0	3512	12
+90.92	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+92.12	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+92.35	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+96.10	4.00	VV	0.93	2	2	0	0	n/a	0	3513	13
+97.03	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+98.37	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+104.00	4.00	VT	0.93	2	2	0	1	n/a	0	3514	14
+104.93	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+105.85	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+106.05	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+106.22	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+112.08	4.00	TT	0.85	6	2	1	1	n/a	0	3515	15
+112.93	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+113.95	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+114.18	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+114.35	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+114.52	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+118.60	4.00	VT	0.93	3	2	0	1	n/a	0	3516	16
+119.53	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+120.38	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+126.17	4.00	TT	0.82	6	2	1	1	n/a	0	3517	17
+126.98	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+128.05	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+128.32	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+128.62	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+128.83	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+129.02	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+129.17	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+132.12	4.00	VT	0.95	5	2	0	1	n/a	0	3518	18
+133.07	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+134.03	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+134.25	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+134.45	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+140.45	4.00	VV	0.82	3	2	0	0	n/a	0	3519	19
+141.27	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+142.32	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+146.12	4.00	TT	0.80	6	2	1	1	n/a	0	3520	20
+146.92	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+147.88	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+148.10	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+148.40	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+148.62	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+151.78	4.00	VT	0.88	5	2	0	1	n/a	0	3521	21
+152.67	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+153.88	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+154.45	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+155.12	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+159.10	4.00	VT	0.88	6	2	0	1	n/a	0	3522	22
+159.98	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+160.93	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+161.20	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+161.40	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+161.55	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+165.52	4.00	TV	0.90	5	2	1	0	n/a	0	3523	23
+166.42	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+167.43	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+173.22	4.00	TV	1.07	3	2	1	0	n/a	0	3524	24
+174.28	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+175.28	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+175.72	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+179.17	4.00	VT	1.03	3	2	0	1	n/a	0	3525	25
+180.20	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+181.08	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+181.28	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+186.02	4.00	TT	1.22	2	2	1	1	n/a	0	3526	26
+187.23	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+188.47	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+188.65	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+188.82	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+191.02	5.00	instructions	n/a	n/a	1	n/a	n/a	n/a	n/a	n/a	n/a
+203.60	4.00	YY	1.25	5	1	1	1	n/a	0	3527	27
+204.85	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+205.75	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+212.48	4.00	YY	0.93	5	1	1	1	n/a	1	3528	28
+213.42	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+214.32	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+214.58	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+219.72	4.00	YY	1.08	3	1	1	1	n/a	1	3529	29
+220.80	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+221.88	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+222.23	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+222.55	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+228.15	4.00	NN	0.88	4	1	0	0	n/a	1	3530	30
+229.03	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+230.12	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+230.40	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+234.00	4.00	NN	0.93	4	1	0	0	n/a	1	3531	31
+234.93	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+236.18	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+242.80	4.00	YY	1.00	5	1	1	1	n/a	1	3532	32
+243.80	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+245.20	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+245.50	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+251.80	4.00	NN	0.93	4	1	0	0	n/a	1	3533	33
+252.73	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+254.15	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+254.37	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+255.20	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+259.13	4.00	NN	1.13	2	1	0	0	n/a	1	3534	34
+260.26	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+265.63	4.00	YN	0.82	5	1	1	0	n/a	1	3535	35
+266.45	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+267.78	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+274.27	4.00	NN	0.82	5	1	0	0	n/a	1	3536	36
+275.08	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+276.40	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+281.03	4.00	YN	0.83	6	1	1	0	n/a	1	3537	37
+281.87	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+282.93	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+283.66	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+287.70	4.00	NN	0.88	5	1	0	0	n/a	1	3538	38
+288.58	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+290.45	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+296.85	4.00	NN	0.92	6	1	0	0	n/a	1	3539	39
+297.77	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+302.83	4.00	NN	1.08	5	1	0	0	n/a	1	3540	40
+303.92	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+305.25	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+311.18	4.00	YY	0.90	5	1	1	1	n/a	1	3541	41
+312.08	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+313.38	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+313.58	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+313.80	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+314.01	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+314.60	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+317.95	4.00	YY	0.92	6	1	1	1	n/a	1	3542	42
+318.87	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+319.80	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+319.98	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+320.18	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+324.32	4.00	YY	1.00	5	1	1	1	n/a	1	3543	43
+325.32	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+326.25	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+326.61	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+333.07	4.00	NN	0.98	3	1	0	0	n/a	1	3544	44
+334.05	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+335.87	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+339.37	4.00	NN	1.18	4	1	0	0	n/a	1	3545	45
+340.55	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+341.87	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+342.27	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+347.62	4.00	YN	1.00	3	1	1	0	n/a	1	3546	46
+348.62	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+351.70	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+356.88	4.00	YN	0.85	5	1	1	0	n/a	1	3547	47
+357.73	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+359.30	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+366.13	4.00	NN	1.03	4	1	0	0	n/a	1	3548	48
+367.17	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+368.56	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+375.22	4.00	NY	1.45	5	1	0	1	n/a	1	3549	49
+376.67	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+377.65	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+377.88	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+378.08	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+383.05	4.00	YY	0.98	5	1	1	1	n/a	1	3550	50
+384.03	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+385.27	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+385.52	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+391.47	4.00	NN	0.95	6	1	0	0	n/a	1	3551	51
+392.42	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+393.93	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+394.15	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+394.35	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+395.45	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+398.90	4.00	YN	1.37	3	1	1	0	n/a	1	3552	52
+400.26	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+401.33	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+401.52	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+403.90	5.00	instructions	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a
+415.35	4.00	AC	1.03	4	0	0	1	n/a	0	3553	53
+416.38	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+417.53	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+424.25	4.00	CA	1.25	2	0	1	0	n/a	1	3554	54
+425.50	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+426.70	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+426.93	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+427.72	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+432.05	4.00	CC	1.22	4	0	1	1	n/a	1	3555	55
+433.27	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+434.40	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+434.73	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+441.33	4.00	CC	0.98	3	0	1	1	n/a	1	3556	56
+442.32	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+443.52	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+443.75	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+449.50	4.00	CC	1.10	6	0	1	1	n/a	1	3557	57
+450.60	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+451.35	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+451.88	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+456.28	4.00	CC	0.82	6	0	1	1	n/a	1	3558	58
+457.10	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+458.42	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+462.47	4.00	AA	1.13	3	0	0	0	n/a	1	3559	59
+463.60	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+464.60	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+464.80	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+469.00	4.00	CC	1.05	3	0	1	1	n/a	1	3560	60
+470.05	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+471.10	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+476.23	4.00	AA	1.08	4	0	0	0	n/a	1	3561	61
+477.32	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+478.32	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+478.58	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+478.83	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+482.12	4.00	AA	1.12	4	0	0	0	n/a	1	3562	62
+483.23	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+484.82	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+489.92	4.00	CC	0.87	6	0	1	1	n/a	1	3563	63
+490.78	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+492.00	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+492.60	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+495.75	4.00	CC	0.92	6	0	1	1	n/a	1	3564	64
+496.67	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+497.55	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+502.27	4.00	CC	1.02	4	0	1	1	n/a	1	3565	65
+503.28	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+504.21	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+504.47	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+505.23	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+510.00	4.00	CC	0.87	4	0	1	1	n/a	1	3566	66
+510.87	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+512.33	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+514.18	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+516.76	4.00	missed_trial	n/a	n/a	0	0	n/a	n/a	1	3567	67
+517.85	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+518.43	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+523.32	4.00	AA	1.08	3	0	0	0	n/a	1	3568	68
+524.40	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+525.43	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+525.82	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+527.00	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+529.20	4.00	AC	0.97	2	0	0	1	n/a	1	3569	69
+530.16	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+531.35	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+531.77	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+531.95	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+532.11	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+532.65	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+535.03	4.00	AC	1.10	2	0	0	1	n/a	1	3570	70
+536.13	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+537.40	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+541.95	4.00	CC	1.02	5	0	1	1	n/a	1	3571	71
+542.97	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+543.90	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+544.15	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+544.95	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+548.33	4.00	CC	0.95	6	0	1	1	n/a	1	3572	72
+549.28	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+550.12	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+550.37	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+550.55	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+554.80	4.00	AA	1.12	5	0	0	0	n/a	1	3573	73
+555.92	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+556.77	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+557.02	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+557.23	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+563.20	4.00	AA	1.02	3	0	0	0	n/a	1	3574	74
+564.22	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+565.50	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+566.03	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+566.73	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+571.53	4.00	AA	0.95	3	0	0	0	n/a	1	3575	75
+572.48	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+573.65	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+577.98	4.00	AA	1.03	3	0	0	0	n/a	1	3576	76
+579.01	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+580.22	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+586.55	4.00	CC	1.02	4	0	1	1	n/a	1	3577	77
+587.57	0	button press	n/a	n/a	n/a	n/a	n/a	51	n/a	n/a	-100
+589.30	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+589.60	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+590.17	0	button press	n/a	n/a	n/a	n/a	n/a	55	n/a	n/a	-100
+594.32	4.00	AA	1.08	2	0	0	0	n/a	1	3578	78
+595.40	0	button press	n/a	n/a	n/a	n/a	n/a	50	n/a	n/a	-100
+596.65	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+596.88	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+597.16	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
+597.87	0	button press	n/a	n/a	n/a	n/a	n/a	54	n/a	n/a	-100
